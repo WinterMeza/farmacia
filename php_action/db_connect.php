@@ -8,7 +8,7 @@ $dbname = "farmacia";
 //$sslCertPath = "pem/DigiCertGlobalRootCA.crt.pem";
 //$store_url = "http://localhost/farmacia/";
 // db connection
-$connect = new mysqli($localhost, $username, $password, $dbname, $port, $sslCertPath);
+$connect = new mysqli($localhost, $username, $password, $dbname);
 // check connection
 if ($connect->connect_error) {
   die("Connection Failed : " . $connect->connect_error);
