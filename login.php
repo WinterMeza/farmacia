@@ -161,11 +161,10 @@ if ($_POST) {
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-   Winter Meza- 9noA - TECNOLOGIAS DE LA INFORMACIÓN EMERGENTES.
+  Winter Meza- 9noA - TECNOLOGIAS DE LA INFORMACIÓN EMERGENTES °|FACCI contacto: wintermj@gmail.con|°
   </div>
   <!-- Copyright -->
 </footer>
 </div>
 </body>
-
 </html>
